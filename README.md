@@ -4,7 +4,8 @@ Home
 city ​​from another country
 ![image](https://github.com/erick271997/mapa-clima/assets/105877877/ec5c8f2a-09db-4356-bb26-25ea9d167e62)
 
-
+Colombia maps
+<img width="1277" alt="Captura de Pantalla 2024-01-10 a la(s) 6 30 21 p m" src="https://github.com/erick271997/mapa-clima/assets/105877877/0422230d-19ed-4098-9092-042ef1d6cc13">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
