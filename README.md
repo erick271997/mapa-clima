@@ -1,6 +1,9 @@
 Home
 ![image](https://github.com/erick271997/mapa-clima/assets/105877877/1bfb5a3a-6a31-4745-a161-3f296c670681)
 
+city ​​from another country
+![image](https://github.com/erick271997/mapa-clima/assets/105877877/ec5c8f2a-09db-4356-bb26-25ea9d167e62)
+
 
 # Getting Started with Create React App
 
