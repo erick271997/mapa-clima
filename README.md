@@ -1,3 +1,7 @@
+Home
+![image](https://github.com/erick271997/mapa-clima/assets/105877877/1bfb5a3a-6a31-4745-a161-3f296c670681)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
